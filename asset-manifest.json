@@ -1,13 +1,13 @@
 {
-  "main.css": "/Budgetor/static/css/main.43ace0ec.chunk.css",
-  "main.js": "/Budgetor/static/js/main.ad64c549.chunk.js",
-  "main.js.map": "/Budgetor/static/js/main.ad64c549.chunk.js.map",
+  "main.css": "/Budgetor/static/css/main.ce5673e3.chunk.css",
+  "main.js": "/Budgetor/static/js/main.06c3586b.chunk.js",
+  "main.js.map": "/Budgetor/static/js/main.06c3586b.chunk.js.map",
   "static/js/1.1cc322f1.chunk.js": "/Budgetor/static/js/1.1cc322f1.chunk.js",
   "static/js/1.1cc322f1.chunk.js.map": "/Budgetor/static/js/1.1cc322f1.chunk.js.map",
   "runtime~main.js": "/Budgetor/static/js/runtime~main.08159512.js",
   "runtime~main.js.map": "/Budgetor/static/js/runtime~main.08159512.js.map",
-  "static/css/main.43ace0ec.chunk.css.map": "/Budgetor/static/css/main.43ace0ec.chunk.css.map",
+  "static/css/main.ce5673e3.chunk.css.map": "/Budgetor/static/css/main.ce5673e3.chunk.css.map",
   "index.html": "/Budgetor/index.html",
-  "precache-manifest.f63765b227a1d9b3bc5b9cd2e771d6e9.js": "/Budgetor/precache-manifest.f63765b227a1d9b3bc5b9cd2e771d6e9.js",
+  "precache-manifest.f1cb9823311257c04560d7df8ab8d411.js": "/Budgetor/precache-manifest.f1cb9823311257c04560d7df8ab8d411.js",
   "service-worker.js": "/Budgetor/service-worker.js"
 }
