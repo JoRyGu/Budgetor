@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Budgetor/static/css/main.ce5673e3.chunk.css"
   },
   {
-    "revision": "398b14939a92a810d4bcd1ff780165a1",
+    "revision": "4b76ca738a20a5c05208fd087081f96a",
     "url": "/Budgetor/index.html"
   }
 ];

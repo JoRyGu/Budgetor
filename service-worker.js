@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Budgetor/precache-manifest.f1cb9823311257c04560d7df8ab8d411.js"
+  "/Budgetor/precache-manifest.672568c63cf1377b12674cceac9081dd.js"
 );
 
 workbox.clientsClaim();
