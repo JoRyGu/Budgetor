@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Krub');
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 30px;
+  font-family: Krub, sans-serif;
+  margin: 10px;
+}
+
+.remainingBudget {
+  font-size: 56px;
+  font-family: Krub, sans-serif;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.remainingBudgetNegative {
+  font-size: 56px;
+  font-family: Krub, sans-serif;
+  font-weight: bold;
+  margin: 20px;
+  color: red;
+}
+
+.itemColumn {
+  padding: 4px;
+}
+
+.costColumn {
+  padding: 4px;
+  text-align: center;
+}
+
+.oddRow {
+  background: white;
+}
+
+.evenRow {
+  background-color: #dee5ae;
+}

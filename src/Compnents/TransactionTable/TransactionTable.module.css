@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Krub');
+
+table {
+  width: 500px;
+  margin: 15px;
+  font-family: Krub, sans-serif;
+  box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+  border-radius: 5px;
+}
+
+.tableRowOdd {
+  background-color: #dee5ae;
+}
+
+.itemColumn {
+  padding: 5px;
+}
+
+.costColumn {
+  padding: 5px;
+  text-align: center;
+}
+
+.itemColumnHead {
+  width: 80%;
+  text-align: left;
+  background-color: #dee5ae;
+  padding: 4px;
+  font-weight: bold;
+}
+
+.costColumnHead {
+  width: 20%;
+  background-color: #dee5ae;
+  padding: 4px;
+  font-weight: bold;
+}
